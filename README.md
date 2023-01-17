@@ -3,7 +3,7 @@
 A ideia é mostrar como nos podemos consumir uma api e como podemos lidar com essas informações.
 
 Criei uma API básica para usarmos como exemplo e o link do repositorio é esse :
-www.github.com/alfredo003/api-restfull
+https://github.com/alfredo003/api-rastfull
 
 ## Ferramentas
 
